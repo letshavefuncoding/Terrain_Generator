@@ -1,0 +1,52 @@
+{
+    "Land":[
+        {
+            "id":1,
+            "desc": "plains",
+            "dis":"-",
+            "color": "green",
+            "colnum": "32"
+
+        },
+        {
+            "id":2,
+            "desc": "hills",
+            "dis":"n",
+            "color": "green",
+            "colnum": "32"
+
+        },
+        {
+            "id":3,
+            "desc": "savanah",
+            "dis":"_",
+            "color": "yellow",
+            "colnum": "33"
+
+        },
+        {
+            "id":4,
+            "desc": "hills",
+            "dis":"n",
+            "color": "yellow",
+            "colnum": "33"
+
+        },
+        {
+            "id":5,
+            "desc": "mountains",
+            "dis":"^",
+            "color": "red",
+            "colnum": "31"
+
+        },
+        {
+            "id":6,
+            "desc": "forest",
+            "dis":"T",
+            "color": "green",
+            "colnum": "32"
+
+        }
+    ]
+}
